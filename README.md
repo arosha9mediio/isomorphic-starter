@@ -11,7 +11,7 @@ pnpm install
 Now to start the local development server run
 
 ```bash
-pnpm starter:dev
+pnpm dev
 ```
 
 To learn more please follow our [Documentation](https://isomorphic-doc.vercel.app/getting-started/installation)
